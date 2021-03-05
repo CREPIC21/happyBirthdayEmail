@@ -1,0 +1,5 @@
+- pandas module (read csv files, getting row and column data)
+- datetime module (getting today's date and time)
+- smtp module (sending emails via smtp connection)
+- random module (as usual)
+- reading and opening txt. files with python ('open with'), adding context to txt.files and saving them
